@@ -1,0 +1,20 @@
+WEIBO；
+QUKUAILIAN；
+
+--------------------------------------------------------------------------------------------------------------------------
+login 	
+	---index  	
+		--search
+		--find
+		--detail
+		--talking
+		--person
+	 ---chuangkou
+	 ---other
+		--MARS store  T
+		--tickets	T/O
+		--products  T/O      
+	
+register
+help
+pd control
