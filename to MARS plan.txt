@@ -4,12 +4,13 @@ QUKUAILIAN；
 --------------------------------------------------------------------------------------------------------------------------
 login 	
 	---index  	
-		--search：hotpots(products,person,tlakings),searchs_find,,
+		--search：hotpots(products,person,tlakings),searchs_find,
 		--find
 		--detail
 		--talking
 		--person
-	 ---chuangkou
+	 ---window1:  qa,help,tuijian,
+	 ---window2:  news,ad,
 	 ---other
 		--MARS store  T
 		--tickets	T/O
