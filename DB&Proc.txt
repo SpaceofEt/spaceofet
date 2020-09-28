@@ -1,0 +1,53 @@
+-F:functions；-P:procedure;-G:group
+-----------------------------------------------------------------------------------------C-----
+login:
+	login();
+	info();
+	customer();
+	//pdres();
+	...
+index:
+	info();
+	search_history();
+		history_products();
+		history_person();
+		history_talkings();
+		...
+	hotpots();
+		hot_products()-F/P;
+		hot_person()-F/P;
+		hot_talkings()-F/P;
+		...
+	find()-F/P;
+	log_login();
+	onekey_for_sign()-G;
+		sign_talkings()-F/P;
+		...
+	rank()-F/P;-T
+	...
+center:
+	info();
+	message()-F;
+	manage()-F:
+		manage_info()-F;
+		manage_release()-F;
+			manage_r_talkings()-F;
+			manage_r_products()-F;
+			...
+		...
+	query()-F:
+		query_map()-F/P;
+		...
+	report()-F;
+	gestbook()-F/P:
+		bug()-F;
+		leaving_message()-F;
+		...
+	other()-F;
+	...
+third p:
+	blockchain;?
+	weibo;?
+	...
+	
+----------------------------------------------------------------------------------------------A-----------
