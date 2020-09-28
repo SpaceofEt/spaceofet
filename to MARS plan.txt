@@ -10,7 +10,7 @@ login
 		--talking
 		--one key for sign webs
 		--person
-		--grank? third p;
+		--rank? third p;
 	 ---window1:  qa,help,tuijian,
 	 ---window2:  news,ad,
 	 ---other
