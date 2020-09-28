@@ -4,7 +4,7 @@ QUKUAILIAN；
 --------------------------------------------------------------------------------------------------------------------------
 login 	
 	---index  	
-		--search
+		--search：hotpots(products,person,tlakings),searchs_find,,
 		--find
 		--detail
 		--talking
