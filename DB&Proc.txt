@@ -1,10 +1,12 @@
--F:functions；-P:procedure;-G:group
------------------------------------------------------------------------------------------C-----
+table()；-F:functions；-P:procedure;-G:group；
+****************************************************************************************web app*******************************************************************************************************************
+--------------------------C-----
 login:
 	login();
 	info();
 	customer();
 	//pdres();
+	
 	...
 index:
 	info();
@@ -43,6 +45,7 @@ center:
 		bug()-F;
 		leaving_message()-F;
 		...
+	mars_map();-F
 	other()-F;
 	...
 third p:
@@ -50,4 +53,65 @@ third p:
 	weibo;?
 	...
 	
-----------------------------------------------------------------------------------------------A-----------
+---------------------A-----------
+usercenters:
+--
+info:
+	info();
+	change_info();-F
+	...
+publish_manage:
+	publish_grid();
+	publish_filter();-F
+	publish_edit();-F
+	...
+ecard_manage:
+	ecard_info();
+	ecard_set();-F
+	ecard_left();-F
+	ecard_transaction();-F
+	ecard_echarge();-F
+	...
+order_manage:
+	order_info();
+	order_set();-F
+	order_edit();-F
+	order_filter();-F
+	...
+ac_num_manage:
+	ac_nums();
+	change_phone();-F
+	change_pd();-F
+	change_email();-F
+	third_acnums();
+	third_acn_manage();-F
+	--blockchain(?);
+	--aboutchain(?);
+	...
+rank:
+	rank_ac_num_lv();-F
+	rank_third_products();--eg:blockchain;
+			eg:weibo;
+			eg:tencent;
+			...
+	rank_comprehensive();&-F
+	rank_set();-F
+	...
+feedback:
+	fd_qa_robot();-F
+	fd_messagebox();-F
+	...
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************************mobile app*******************************************************************************************************************
+
+
