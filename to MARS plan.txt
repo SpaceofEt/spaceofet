@@ -17,10 +17,22 @@ login
 		--MARS store  T
 		--tickets	T/O
 		--products  T/O      
-	
 register
 help
 pd control
+
+usercenter
+	---info
+	---acountnumsset
+	---queryset
+	---rankset
+	---ecardset
+	---orders
+	---publish
+		---products
+		---third-p
+	---feedback
+	---
 
 --------------------------------------------------------------------------------------------------------------------------a--
 #easyui#
