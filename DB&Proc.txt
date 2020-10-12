@@ -102,8 +102,10 @@ feedback:
 	fd_messagebox();-F
 	...
 
-
-
+personlize:
+	personlizeinfo();-F
+	personlizeset();
+	
 
 
 

@@ -31,6 +31,9 @@ usercenter
 	---publish
 		---products
 		---third-p
+	---personlization
+		---modelset
+		---modelnfo
 	---feedback
 	---
 
