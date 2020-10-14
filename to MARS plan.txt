@@ -13,9 +13,17 @@ login
 		--rank? third p;
 	 ---window1:  qa,help,tuijian,
 	 ---window2:  news,ad,
+	 ****et  space****
+		**et free vocalconcert (VR)
+		**et singRand
+		**et singTogether
+		**et chatty
+		**et otherfunny 
+		**et plugin mini game
 	 ---other
 		--MARS store  T
 		--tickets	T/O
+			--:qiang
 		--products  T/O      
 register
 help
@@ -35,8 +43,10 @@ usercenter
 		---modelset
 		---modelnfo
 	---feedback
-	---
+	---report info&back
 
 --------------------------------------------------------------------------------------------------------------------------a--
 #easyui#
 data,manager,reoport;
+
+
