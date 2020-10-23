@@ -13,18 +13,34 @@ login
 		--rank? third p;
 	 ---window1:  qa,help,tuijian,
 	 ---window2:  news,ad,
-	 ****et  space****
-		**et free vocalconcert (VR)
-		**et singRand
-		**et singTogether
+	 ****et  space****book,draw;
+		music center
+			**et free vocalconcert (VR)
+			**et singRand
+			**et singTogether
+		piano
+			short v:
+			**et piano sharespace
+		chess		
+			**et chess 
+			**et rank
+			...
+		books
+			**et shelf:read,upload,custom;
+			**et bookchatting group
+			**et book forum
+		draw
+			**et draw together minigame
+			**et pictures sharespace
 		**et chatty
 		**et otherfunny 
-		**et plugin mini game
+			**other plugin mini game
+			**upload,custom;
 	 ---other
 		--MARS store  T
-		--tickets	T/O
-			--:qiang
-		--products  T/O      
+			--tickets	T/O
+				--:book tickets
+			--products  T/O      
 register
 help
 pd control
@@ -44,9 +60,85 @@ usercenter
 		---modelnfo
 	---feedback
 	---report info&back
+----------------------------------------------------------------------------------------------------------------------------admin--
 
---------------------------------------------------------------------------------------------------------------------------a--
-#easyui#
-data,manager,reoport;
+//  data,manager,reoport;
+
+
+admin
+	publish:
+		---docs
+		---release
+			system update
+			app info
+		---system change
+			space
+			mini game
+		 
+	manage:
+		---manageinfo
+		---managemodel
+		---manageplugin
+		---managerelease
+		---managemap(docs,books,)
+	audit:
+		---audit jubao
+			comments,publish,upload,...
+		---audit upload
+			book,mini game
+		---audit  publish
+			forum,
+		---audit other
+	security settings:
+		---audit account!!***
+			---:auto process(eg:account vertification,frozen,status,etc.)
+
+	
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
